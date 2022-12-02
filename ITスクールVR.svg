@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="164.95808"
+       y="331.25729"
+       width="905.49982"
+       height="269.17303"
+       id="rect113" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter377"
+       x="-0.010827866"
+       y="-0.047525413"
+       width="1.0261673"
+       height="1.1148531">
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result1"
+         id="feGaussianBlur363" />
+      <feOffset
+         dx="2"
+         dy="2"
+         id="feOffset365" />
+      <feConvolveMatrix
+         result="result3"
+         order="3 3"
+         kernelMatrix="2 0 0 0 8 0 4 0 -4 "
+         divisor="2"
+         bias="0"
+         targetX="0"
+         id="feConvolveMatrix367" />
+      <feComposite
+         operator="xor"
+         result="result2"
+         in="result3"
+         in2="result1"
+         id="feComposite369" />
+      <feColorMatrix
+         values="91.7"
+         result="fbSourceGraphic"
+         type="hueRotate"
+         id="feColorMatrix371" />
+      <feBlend
+         mode="multiply"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result3"
+         id="feBlend373" />
+      <feComposite
+         operator="in"
+         result="result6"
+         in="fbSourceGraphic"
+         in2="result4"
+         id="feComposite375" />
+    </filter>
+  </defs>
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.30927348,0,0,0.60916546,-47.976345,-136.46138)"
+       id="text111"
+       style="font-size:45.5146px;white-space:pre;shape-inside:url(#rect113);display:inline;fill:#ff0000;filter:url(#filter377)"><tspan
+         x="164.95898"
+         y="376.06125"
+         id="tspan808"><tspan
+           style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
+           id="tspan798">IT</tspan><tspan
+           style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
+           id="tspan800">スクール</tspan><tspan
+           style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
+           id="tspan802">を</tspan><tspan
+           style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
+           id="tspan804">表現</tspan><tspan
+           style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
+           id="tspan806">した
+</tspan></tspan><tspan
+         x="164.95898"
+         y="436.34561"
+         id="tspan816"><tspan
+           style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
+           id="tspan810">VR</tspan><tspan
+           style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
+           id="tspan812">作品</tspan><tspan
+           style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
+           id="tspan814">です！！</tspan></tspan></text>
+  </g>
+</svg>

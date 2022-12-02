@@ -1,0 +1,210 @@
+
+.header {
+  background:white;
+  height: 110px; 
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: fixed;
+  display:flex;
+}
+/*nav{
+  position: relative;
+  display: block;
+  text-decoration:center;
+  color: #999;
+  padding:20px 45px;c:\Users\かげ\Desktop\ROOTS内容・及び教材\ポートフォリオ 11-14-02\stylesheet.css
+  transition:all .3s;
+}*/
+
+
+
+.header-logo {
+    font-size: 30px;   
+    margin-left: 10px;
+    margin-right: auto; 
+}
+
+li {
+  list-style-type: none;
+}
+  
+.listo {  
+  font-family: 'Black Ops One',cursive;
+  margin-top: 0px;
+  text-align: center;
+  margin-right: 10px;
+  /* margin-left: 0; */
+}
+
+.listo ul {
+  display: flex;
+}
+
+.listo li { 
+  /* float: left; */
+  padding: 50px 12px ;
+  color: rgb(128, 125, 125);
+}
+
+.Title
+{
+  
+  margin-top: 100px;
+ text-align: center;
+  color: rgb(238, 14, 14);
+}
+.main
+{
+  
+  margin-top: 0px;
+  text-align: center;
+  height:500px;
+  margin-bottom: 150px;
+}
+.background-image01{
+  
+ 
+  margin-right: 100px;
+  
+}
+.setu{
+  font-family: serif;
+  font:"left";
+  padding: 0px 100px;
+  width: 100%;
+  margin-top: -350px;
+}
+.btn{
+  font-family: 'Black Ops One',cursive;
+  margin-left: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  text-align: center;
+  opacity:0.5;
+  background-color: rgb(20, 20, 20);
+  color: rgb(158, 153, 153);
+  margin-right: auto;
+}
+.self-introduction
+{
+ 
+ font-family: 'Black Ops One',cursive;
+  font:"left";
+  padding: 0px 100px;
+  width: 100%;
+  color: rgb(128, 125, 125);
+}
+.IntroductiontoVR{
+  margin-top: 200px;
+}
+
+.Title01
+{
+  text-align: center;
+  margin-top: 200px;
+  margin-left: 290px;
+}
+.bodycollar02{
+  background: gray;
+  margin-left:0px;
+  margin-top: -150px;
+  width: 100%;
+}
+.VR
+{
+  margin-left:0px;
+}
+.TextVR01{
+  float: right;
+   color: white;
+  font-size: 80px;
+  text-align: center;
+  margin-top:200px;
+  font-family:'HGP行書体';
+}
+
+.informationSystem{  
+  color: rgb(128, 125, 125);
+  text-align: center;
+  width: 100%;
+  font-family: 'Black Ops One',cursive;
+}
+.contact {
+  width: 960px;/*横幅*/
+  margin: 0 auto;/*中央寄せ*/
+  padding: 60px 0;
+  color: rgb(128, 125, 125);
+  text-align: center;
+}
+.contact-ttl{
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 40px;
+  text-align: center;
+  color: rgb(128, 125, 125);
+  font-family: 'Black Ops One',cursive;
+}
+.name-input{
+  color: rgb(128, 125, 125);
+  margin-top: 0px;
+  margin-left: 350px;
+  font-family: 'Black Ops One',cursive;
+  
+}
+.type01{
+  margin-top: -30px;
+  margin-left: 350px;
+}
+input[type=text]{
+  width:300px;
+  height:60px;
+  font-size:200%;
+  }
+.name-input01{
+  color: rgb(128, 125, 125);
+    margin-left: 350px;
+    font-family: 'Black Ops One',cursive;
+}
+input[type=email]{
+  width:300px;
+  height:60px;
+  font-size:200%;
+  }
+  .name-input02{
+    color: rgb(128, 125, 125);
+    margin-left: 350px;
+    font-family: 'Black Ops One',cursive;
+}
+.type02{
+  margin-left: 350px;
+  font-size:200%;
+}
+input[type=text01]{
+  display: table-cell;
+  vertical-align: top;
+  width:400px;
+  height:200px;
+  font-size:200%;
+  text-align: left;
+  }
+  .button-margin{
+    margin-top:50px;
+    margin-left: 350px;
+    font-family: 'Black Ops One',cursive;
+    
+  }
+  .button{
+    text-align: center;
+    padding-left: 5em;
+    padding-right: 5em;
+    height: 4em;
+    font-size: 30px;
+    font-family: 'Black Ops One',cursive;
+  }
+  
+ 
